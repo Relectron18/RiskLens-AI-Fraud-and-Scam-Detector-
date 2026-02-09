@@ -1,4 +1,4 @@
-# 🚨 RiskLens AI – Fraud & Scam Detection Platform
+# RiskLens AI – Fraud & Scam Detection Platform
 
 RiskLens AI is a real-time fraud and scam detection system designed to assess transaction risk across digital payments, fintech platforms, and Web3 ecosystems. It combines machine learning, rule-based intelligence, and behavioral heuristics to deliver accurate, explainable, and actionable risk insights.
 
@@ -6,7 +6,7 @@ Built with a modern full-stack architecture, RiskLens AI provides both on-demand
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Hybrid Risk Engine**  
   Combines ML probability scoring with deterministic rules to ensure accuracy, robustness, and explainability.
@@ -25,7 +25,7 @@ Built with a modern full-stack architecture, RiskLens AI provides both on-demand
 
 ---
 
-## 🧠 How RiskLens Works
+## How RiskLens Works
 
 1. Transaction data is received via REST API or WebSocket.
 2. Relevant features are extracted (amount, location, merchant type, behavioral signals).
@@ -37,7 +37,7 @@ This hybrid design ensures system stability and explainability even when ML conf
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - React + TypeScript
@@ -52,7 +52,7 @@ This hybrid design ensures system stability and explainability even when ML conf
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 ### Backend
 ```bash
