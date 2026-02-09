@@ -1,0 +1,7 @@
+# Ignore the large data file
+backend/data.csv
+
+# Recommended: ignore all CSVs and Python cache
+*.csv
+__pycache__/
+.env
