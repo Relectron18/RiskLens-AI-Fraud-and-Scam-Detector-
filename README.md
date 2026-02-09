@@ -50,12 +50,3 @@ This hybrid design ensures system stability and explainability even when ML conf
 - WebSocket streaming
 - Scikit-learn (ML model)
 
----
-
-## Running the Project
-
-### Backend
-```bash
-cd backend
-pip install -r requirements.txt
-python main.py
